@@ -1,0 +1,185 @@
+/* ////////////////////////////////////////////
+
+this is Default Setting for Cardly CSS Framework
+Maker : Phawee Toraparppisan (Kizz)
+Version : 0.0.1 (31/01/2020)
+
+Cardly คือ CSS Framework ที่จะทำให้คุณสามารถทำงานได้ง่ายขึ้น เพียงนำ CSS สำเร็จรูป มาเรียงต่อกันตาม Block ก็จะได้เว็บไซต์ที่สวยงามอย่างรวดเร็ว
+
+////////////////////////////////////////////// */
+
+* {
+    margin: 0 auto;
+}
+
+body {
+    background: #F6F6F6 ;
+    
+}
+
+@media screen and (min-width: 200px) {
+    
+    .starter { 
+        width: 350px;
+        border-radius: 30px;
+        margin-top: 60px;
+        
+       /* height: 400px;
+        background: white ; */
+    }
+    
+/* ////////////////////////////////////////
+
+            T E M P L A T E
+
+ //////////////////////////////////////// */
+    
+    
+}
+
+@media screen and (min-width: 610px) {
+
+    .starter { 
+        width: 600px;
+        border-radius: 30px;
+        margin-top: 60px;
+        
+       /* height: 400px;
+        background: white ; */
+    }
+    
+    
+    
+/* ////////////////////////////////////////
+
+            T E M P L A T E
+
+ //////////////////////////////////////// */
+ 
+    
+}
+
+
+/* For All */
+
+    .next {
+        margin-bottom: 30px;
+    }
+
+
+
+/* ////////////////////////////////////////
+
+            T E M P L A T E
+
+ //////////////////////////////////////// */
+
+
+/* Start Cardtides */
+    .cardtides {
+        padding: 60px 20px;
+        background: white;
+        border-radius: 30px; 
+        font-family: sans-serif;
+    }
+    
+    .cardtides h2 {
+        padding: 0 0 20px 0;
+        text-align: center;
+        font-size: 30px;
+    }
+    
+    .cardtides p {
+        text-align: center;
+        font-size: 19px;
+    }
+    
+
+/* End Cardtides */
+
+/*////////////////////////////////////////////////////////////////*/
+
+/* Start Cardprofile */
+    
+    .cardprofile {
+        padding: 60px 20px;
+        background: white;
+        border-radius: 30px; 
+        font-family: sans-serif;
+    }
+
+    .cardprofile .avatar {
+        width: 150px;
+        height: 150px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        border-radius: 50%;
+        
+    }
+    
+    .cardprofile h2 {
+        padding: 20px 0 20px 0;
+        text-align: center;
+        font-size: 30px;
+    }
+    
+    .cardprofile p {
+        text-align: center;
+        font-size: 19px;
+    }
+
+/* End Cardprofile */
+
+
+/*////////////////////////////////////////////////////////////////*/
+
+/* Start Cardrow */
+
+
+/* Style the counter cards */
+.cardrow .card {
+    padding: 20px 10px 5px 10px;
+    text-align: center;
+    background-color: white;
+    border-radius: 30px;
+    height: 130px; 
+    margin-bottom: 30px;
+}
+
+.cardrow h3,i,p {
+    font-family: sans-serif;
+    margin-bottom: 10px;
+}
+
+
+@media screen and (min-width: 610px) { 
+    .cardrow .row {
+        margin: auto;
+        display: flex;
+    }
+    .cardrow .column {
+        float: left;
+        width: 180px;
+        padding: 0 10px;
+    
+    }
+}  
+
+@media screen and (min-width: 200px) {
+    .cardrow .row {
+        margin: auto;
+    }
+    .cardrow .column {
+        width: 100%;
+        display: block;
+    }
+}
+
+/* End Cardrow */
+
+/*////////////////////////////////////////////////////////////////*/
+
+
+.cardroww {
+    
+}
