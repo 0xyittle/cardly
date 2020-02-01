@@ -5,32 +5,38 @@ Author : Phawee Toraparppisan (Kizz)
 
 Cardly is a Open Source CSS framework that makes it easier to work, just putting ready-made CSS you will get a beautiful website quickly.
 
-## Div : starter
+## Class : starter
 Starter kit for cardly.
 
-## Div : next.
+## Class : next
 Use this to allow space between the cards.
 margin : 30px;
 
-## [Component] Div : cardtides
+## Class : dark
+set text and background color to dark.
+
+## Class : white
+set text color to white.
+
+## [Component] Class : cardtides
 - Title
 - Description
 
-## [Component] Div : cardprofile
+## [Component] Class : cardprofile
 - Circle Image
 - Title
 - Description
 
-## [Component] Div : cardrow
+## [Component] Class : cardrow
 3 Column
 - Icon
 - Title
 - Description
 
-## [Component] Div : cardyoutube
+## [Component] Class : cardyoutube
 Youtube respondsive
 
-## [Component] Div : cardhero
+## [Component] Class : cardhero
 - Tagline
 - Title
 - Description
