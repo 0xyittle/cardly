@@ -1,5 +1,5 @@
-# cardly
-Open source - Card Design CSS
+# Cardly
+Open source - CSS Card Design
 
 Author : Phawee Toraparppisan (Kizz)
 
@@ -12,25 +12,25 @@ Starter kit for cardly.
 Use this to allow space between the cards.
 margin : 30px;
 
-## Div : cardtides
+## [Component] Div : cardtides
 - Title
 - Description
 
-## Div : cardprofile
+## [Component] Div : cardprofile
 - Circle Image
 - Title
 - Description
 
-## Div : cardrow
+## [Component] Div : cardrow
 3 Column
 - Icon
 - Title
 - Description
 
-## Div : cardyoutube
+## [Component] Div : cardyoutube
 Youtube respondsive
 
-## Div : cardhero
+## [Component] Div : cardhero
 - Tagline
 - Title
 - Description
