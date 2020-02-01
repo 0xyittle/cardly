@@ -1,29 +1,38 @@
 # cardly
 Open source - Card Design CSS
 
-Maker : Kizz Phawee Toraparppisan
+Author : Phawee Toraparppisan (Kizz)
 
-Cardly คือ CSS Framework ที่จะทำให้คุณสามารถทำงานได้ง่ายขึ้น เพียงนำ CSS สำเร็จรูป มาเรียงต่อกันตาม Block ก็จะได้เว็บไซต์ที่สวยงามอย่างรวดเร็ว
+Cardly is a CSS framework that makes it easier to work, just putting ready-made CSS you will get a beautiful website quickly.
 
 ## Div : starter
-เป็นชุดเริ่มต้นสำหรับ cardly ซึ่งมี css design เบื้องต้นไว้เรียบร้อยแล้ว
+Starter kit for cardly.
 
-## Div : next
-เว้นระยะห่างระหว่าง card
-margin:30px;
+## Div : next.
+Use this to allow space between the cards.
+margin : 30px;
 
 ## Div : cardtides
-Title + Description
+- Title
+- Description
 
 ## Div : cardprofile
-Circle Image + Title + Description
+- Circle Image
+- Title
+- Description
 
 ## Div : cardrow
 3 Column
-icon + title + description
+- Icon
+- Title
+- Description
 
 ## Div : cardyoutube
 Youtube respondsive
 
 ## Div : cardhero
-tagline + title + description + button + background
+- Tagline
+- Title
+- Description
+- Button
+- Background
