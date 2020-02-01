@@ -4,7 +4,7 @@ this is Default Setting for Cardly CSS Framework
 Maker : Phawee Toraparppisan (Kizz)
 Start Date : 31/01/2020
 
-Cardly คือ CSS Framework ที่จะทำให้คุณสามารถทำงานได้ง่ายขึ้น เพียงนำ CSS สำเร็จรูป มาเรียงต่อกันตาม Block ก็จะได้เว็บไซต์ที่สวยงามอย่างรวดเร็ว
+Cardly is a Open Source CSS framework that makes it easier to work, just putting ready-made CSS you will get a beautiful website quickly.
 
 ////////////////////////////////////////////// */
 
@@ -23,10 +23,8 @@ body {
         width: 350px;
         border-radius: 30px;
         margin-top: 60px;
-        
-       /* height: 400px;
-        background: white ; */
     }
+    
     
 /* ////////////////////////////////////////
 
@@ -43,9 +41,6 @@ body {
         width: 600px;
         border-radius: 30px;
         margin-top: 60px;
-        
-       /* height: 400px;
-        background: white ; */
     }
     
     
@@ -65,8 +60,6 @@ body {
     .next {
         margin-bottom: 30px;
     }
-
-
 
 /* ////////////////////////////////////////
 
@@ -211,8 +204,6 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(135deg, rgba(48, 35, 174, .6), rgba(200, 109, 215, .6)),
-        url("https://uploads-ssl.webflow.com/5ae109486d7b6097d347f1e3/5ae21b3627bb4f733d933f95_hero1.jpg");
     background-size: auto, cover;
     text-align: center;
 }
@@ -247,7 +238,7 @@ body {
 .cardhero .button {
     display: inline-block;
     margin-bottom: 10px;
-    padding: 9px 25px;
+    padding: 14px 30px 6px 30px;
     float: none;
     background-color: #FFF;
     color: black;
