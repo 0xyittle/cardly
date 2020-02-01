@@ -3,7 +3,9 @@ Open source - CSS Card Design
 
 Author : Phawee Toraparppisan (Kizz)
 
-Cardly is a Open Source CSS framework that makes it easier to work, just putting ready-made CSS you will get a beautiful website quickly.
+Cardly is an Open Source CSS framework that makes it easier to work, just putting ready-made CSS you will get a beautiful website quickly.
+
+Cardly is different from other frameworks because each component is created to have unique features. It cannot be used together.
 
 ## Class : starter
 Starter kit for cardly.
