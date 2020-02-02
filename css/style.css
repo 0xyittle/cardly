@@ -21,6 +21,7 @@ Cardly is a Open Source CSS framework that makes it easier to work, just putting
 
 body {
     background: #F6F6F6 ;
+    color: #1F2020;
     font-family: sans-serif;
 }
 
@@ -53,7 +54,7 @@ body {
     }
 
 .dark {
-    background: black !important;
+    background: #1F2020 !important;
     color: white !important;
     }
 
