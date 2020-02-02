@@ -65,27 +65,27 @@ Author : Phawee Toraparppisan (Kizz)
 
 
 /* Style the counter cards */
-.cardrow .card {
-    padding: 20px 10px 5px 10px;
+.cardsocial .card {
+    padding: 35px 10px 20px 10px;
     text-align: center;
     background: white;
     color: black;
     border-radius: 30px;
-    height: 130px; 
+    height: 100px; 
     margin-bottom: 30px;
 }
 
-.cardrow h3,i,p {
+.cardsocial h3,i,p {
     margin-bottom: 10px;
 }
 
 
 @media screen and (min-width: 610px) { 
-    .cardrow .row {
+    .cardsocial .row {
         margin: auto;
         display: flex;
     }
-    .cardrow .column {
+    .cardsocial .column {
         float: left;
         width: 180px;
         padding: 0 10px;
@@ -94,10 +94,10 @@ Author : Phawee Toraparppisan (Kizz)
 }  
 
 @media screen and (min-width: 200px) {
-    .cardrow .row {
+    .cardsocial .row {
         margin: auto;
     }
-    .cardrow .column {
+    .cardsocial .column {
         width: 100%;
         display: block;
     }
