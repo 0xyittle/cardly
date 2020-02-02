@@ -170,6 +170,10 @@ Author : Phawee Toraparppisan (Kizz)
     color: hsla(0, 0%, 100%, .8);
 }
 
+.cardhero a {
+    color: #1F2020;
+}
+
 .cardhero .button {
     display: inline-block;
     margin-bottom: 10px;
@@ -179,7 +183,6 @@ Author : Phawee Toraparppisan (Kizz)
     line-height: 22px;
     border-radius: 10px;
     text-decoration: none;
-
 }
 
 .cardhero .button:hover {
