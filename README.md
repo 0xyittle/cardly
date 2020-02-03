@@ -44,3 +44,8 @@ Youtube respondsive
 - Description
 - Button
 - Background
+
+## [Component] Class : cardlist
+- Image
+- tagline
+- Title
