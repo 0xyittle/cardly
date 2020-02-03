@@ -3,49 +3,52 @@ Open source - CSS Card Design
 
 Author : Phawee Toraparppisan (Kizz)
 
-Cardly is an Open Source CSS framework that makes it easier to work, just putting ready-made CSS you will get a beautiful website quickly.
+Cardly is an Open Source CSS Components that makes it easier to work, just putting CSS Components you will get a beautiful website quickly. (Responsive Design)
 
 Cardly is different from other frameworks because each component is created to have unique features. It cannot be used together.
 
-## Class : starter
+## Global Class : starter
 Starter kit for cardly.
 
-## Class : next
+## Global Class : next
 Use this to allow space between the cards.
 margin : 30px;
 
-## Class : dark
+## Global Class : dark
 set text and background color to dark.
 
-## Class : white
+## Global Class : white
 set text color to white.
 
-## [Component] Class : cardtides
+## Global Class : nobg
+set background image and color to none.
+
+## [Component] : cardtides
 - Title
 - Description
 
-## [Component] Class : cardprofile
+## [Component] : cardprofile
 - Circle Image
 - Title
 - Description
 
-## [Component] Class : cardrow
+## [Component] : cardrow
 3 Column
 - Icon
 - Title
 - Description
 
-## [Component] Class : cardyoutube
+## [Component] : cardyoutube
 Youtube respondsive
 
-## [Component] Class : cardhero
+## [Component] : cardhero
 - Tagline
 - Title
 - Description
 - Button
 - Background
 
-## [Component] Class : cardlist
+## [Component] : cardlist
 - Image
 - tagline
 - Title
