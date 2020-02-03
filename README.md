@@ -1,7 +1,8 @@
 # Cardly
 Open source - CSS Card Design
 
-Author : Phawee Toraparppisan (Kizz
+Author : Phawee Toraparppisan (Kizz)
+
 Please Support me : https://paypal.me/chritspgm
 
 Cardly is an Open Source CSS Components that makes it easier to work, just putting CSS Components you will get a beautiful website quickly. (Responsive Design)
