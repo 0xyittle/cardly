@@ -13,7 +13,7 @@ Document (No content yet)
 https://chrits-pgm.gitbook.io/cardly/
 
 ## Global Class : starter
-Starter kit for cardly.
+Starter for cardly.
 
 ## Global Class : next
 Use this to allow space between the cards.
