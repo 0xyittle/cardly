@@ -12,17 +12,17 @@ Cardly is an Open Source CSS framework that makes it easier to work, just puttin
 /* Import Components */
 @import url("components.css");
 
-
 /* Default Setting */
 
 * {
     margin: 0 auto;
+    font-family: sans-serif;
+
 }
 
 body {
     background: #F6F6F6 ;
     color: #1F2020;
-    font-family: sans-serif;
 }
 
 /* Screen Mobile Size */
@@ -35,7 +35,6 @@ body {
     }    
 }
 
-
 /* Screen Desktop Size */
 
 @media screen and (min-width: 610px) {
@@ -47,7 +46,8 @@ body {
     }
 }
 
-/* For All */
+
+/* Global Class */
 
 .next {
     margin-bottom: 30px !important;
@@ -61,4 +61,9 @@ body {
 .white {
     color: black !important;
 }
+
+.nobg {
+    background: none !important;
+}
+
 
