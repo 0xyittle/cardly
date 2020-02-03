@@ -226,27 +226,29 @@ Author : Phawee Toraparppisan (Kizz)
     text-decoration: none;
     color: inherit;
     cursor: pointer;
+    margin-left: 5px;
+    margin-right: 5px;
 }    
 .cardlist .avatar {
     display: block;
-    width: 60px;
     margin-left: 5px;
     margin-right: 0px;
+    
+    width: 60px;
+    height: 60px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    background-position: 50% 50%; 
+    border-radius: 50%;
+    vertical-align: middle;
+    display: inline-block;
+
 }        
 .cardlist img {
     border: 0;
-}         
-.avatar-image {
-    width: 60px;
-    height: 60px;          
-    display: flex;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 50% 50%;      
-    display: inline-block;
-    vertical-align: middle;
-    border-radius: 50%;
-}
+} 
+
 .cardlist .text {
     margin-left: 10px;
 }
@@ -255,6 +257,7 @@ Author : Phawee Toraparppisan (Kizz)
     font-family: sans-serif;
     text-decoration: none;
     color: black;
+
 }
 .cardlist .tagline {
     font-size: 12px;
