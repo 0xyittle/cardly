@@ -21,6 +21,8 @@ Author : Phawee Toraparppisan (Kizz)
     .cardtides p {
         text-align: center;
         font-size: 19px;
+        line-height: 26px;
+
     }
     
 
@@ -54,6 +56,8 @@ Author : Phawee Toraparppisan (Kizz)
     .cardprofile p {
         text-align: center;
         font-size: 19px;
+        line-height: 26px;
+
     }
 
 /* End Cardprofile */
@@ -66,11 +70,11 @@ Author : Phawee Toraparppisan (Kizz)
 
 /* Style the counter cards */
 .cardsocial .card {
-    padding: 35px 5px 23px 5px;
+    padding: 35px 10px 23px 10px;
     text-align: center;
     background: white;
     border-radius: 30px;
-    height: 100px; 
+    min-height: 100px; 
     margin-bottom: 30px;
 }
 
@@ -78,6 +82,15 @@ Author : Phawee Toraparppisan (Kizz)
     margin-bottom: 10px;
 }
 
+@media screen and (min-width: 100px) {
+    .cardsocial .row {
+        margin: auto;
+    }
+    .cardsocial .column {
+        width: 100%;
+        display: block;
+    }
+}
 
 @media screen and (min-width: 610px) { 
     .cardsocial .row {
@@ -91,16 +104,6 @@ Author : Phawee Toraparppisan (Kizz)
     
     }
 }  
-
-@media screen and (min-width: 200px) {
-    .cardsocial .row {
-        margin: auto;
-    }
-    .cardsocial .column {
-        width: 100%;
-        display: block;
-    }
-}
 
 /* End Cardrow */
 
@@ -189,7 +192,76 @@ Author : Phawee Toraparppisan (Kizz)
     background: #e7e7e7;
 }
 
-/*////////////////////////////////////////////////////////////////*/
-
 /* End cardhero */
 
+/*////////////////////////////////////////////////////////////////*/
+
+/* Start Cardlist */
+
+@media screen and (min-width: 100px) {
+    .cardlist {
+        width: 330px;
+        margin-left: 0;
+        margin-right: 0;
+        padding: 8px 8px;
+    }
+}
+@media screen and (min-width: 610px) { 
+    .cardlist {
+        width: 275px ;
+        margin-left: 5px;
+        margin-right: 5px;
+        padding: 8px 6px;
+    }
+}  
+.cardlist {
+    background: white;
+    border-radius: 30px;
+    min-height: 80px;         
+    display: inline-flex;
+    align-items:center;
+    
+}    
+.cardlist .link {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}    
+.cardlist .avatar {
+    display: block;
+    width: 60px;
+    margin-left: 5px;
+    margin-right: 0px;
+}        
+.cardlist img {
+    border: 0;
+}         
+.avatar-image {
+    width: 60px;
+    height: 60px;          
+    display: flex;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;      
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 50%;
+}
+.cardlist .text {
+    margin-left: 10px;
+}
+.cardlist a {
+    display: block;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: black;
+}
+.cardlist .tagline {
+    font-size: 12px;
+    padding-bottom: 3px;       
+}
+.cardlist .title {
+    font-size: 22px;
+}
+
+/* End Cardlist */
