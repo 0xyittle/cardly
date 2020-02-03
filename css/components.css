@@ -262,6 +262,7 @@ Author : Phawee Toraparppisan (Kizz)
 }
 .cardlist .title {
     font-size: 22px;
+    font-weight: bold;
 }
 
 /* End Cardlist */
