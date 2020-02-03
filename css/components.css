@@ -116,6 +116,7 @@ Author : Phawee Toraparppisan (Kizz)
     padding-bottom: 56.25%;
     height: 0; overflow: hidden;
     max-width: 100%;
+    border-radius: 30px;
 }
 
 .cardyoutube iframe, .cardyoutube object, .cardyoutube embed {
