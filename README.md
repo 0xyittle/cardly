@@ -9,8 +9,7 @@ Cardly is an Open Source CSS Components that makes it easier to work, just putti
 
 Cardly is different from other frameworks because each component is created to have unique features. It cannot be used together.
 
-Document (No content yet)
-https://chrits-pgm.gitbook.io/cardly/
+Document : https://chrits-pgm.gitbook.io/cardly/
 
 ## Global Class : starter
 Starter for cardly.
