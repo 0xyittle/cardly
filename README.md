@@ -19,11 +19,17 @@ Starter for cardly.
 Use this to allow space between the cards.
 margin : 30px;
 
-## Global Class : dark
-set text and background color to dark.
+## Global Class : moon
+set text and background color to #1F2020.
 
-## Global Class : white
+## Global Class : sun
+set text and background color to white.
+
+## Global Class : suntext
 set text color to white.
+
+## Global Class : moontext
+set text color to #1F2020.
 
 ## Global Class : nobg
 set background image and color to none.
